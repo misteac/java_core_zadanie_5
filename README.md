@@ -42,7 +42,7 @@ public class BackupUtility {
 }
 В нашем конкретном случае, для проверки работоспособности, будем использовать вместо "./source" путь "." В результате выполнения нашего кода в корне будет создана директория с именем "backup"
 
-image![image](https://github.com/misteac/java_core_zadanie_5/assets/147642255/eaa90477-cdeb-4d08-a3bf-709a15981166)
+![image](https://github.com/misteac/java_core_zadanie_5/assets/147642255/eaa90477-cdeb-4d08-a3bf-709a15981166)
 
 
 Задача 2.
